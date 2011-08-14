@@ -83,10 +83,3 @@
 		}
 		
 	}
-	
-	
-	$array = array( 30, 3, 15, 18, 21, 21, 100, 60, 12, 6, 14, 2 );
-	
-	$lowestNumber = lowestValueInArray( $array );
-
-	echo "<p>Lowest Number is $lowestNumber</p>";
